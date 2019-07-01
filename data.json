@@ -1,0 +1,653 @@
+{
+  "Category" : {
+    "01" : {
+      "description" : "Hãy nhanh tay thử các sản phẩm mới của Gà Rán Popeyes - chỉ xuất hiện trong thời gian cực kỳ giới hạn. Với hương vị mới lạ độc đáo và giá cả hợp lí, sản phẩm mới của chúng tôi chắc chắn sẽ làm vừa lòng những thực khách khó tính nhất",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_lto_gcs-cb92.jpg",
+      "name" : "Món mới"
+    },
+    "02" : {
+      "description" : "Louisiana nổi tiếng với hương vị thơm ngon đặc trưng - Gà rán Cajun cay giòn và Creole chua chua béo ngậy . Hãy thử ngay món bơ-gơ gà , tôm hoặc cá từ cảm hứng ẩm thực Louisiana",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_burger_shrimp_1_1.png",
+      "name" : "Bơ-gơ"
+    },
+    "03" : {
+      "description" : "Món Gà Giòn Cay được tẩm ướp gia vị Cajun cay trong ít nhất 12 giờ đồng hồ, sau đó được phủ bột và rán giòn cùng hương vị Louisiana đậm đà",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_spicy_redboatcombo.png",
+      "name" : "Gà giòn cay"
+    },
+    "04" : {
+      "description" : "Món Gà Giòn không Cay được tẩm ướp gia vị Cajun cay trong ít nhất 12 giờ đồng hồ, sau đó được phủ bột và rán giòn cùng hương vị Louisiana đậm đà",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_mild_40off.png",
+      "name" : "Gà giòn không cay"
+    },
+    "05" : {
+      "description" : "100% thịt ức mềm được ướp sốt trong hỗn hợp gia vị Louisiana đặc trưng , sau đó được phủ bột và rán chín thật tươi ngon ngay tại bếp",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_tenders_happyhour.png",
+      "name" : "Gà giòn không xương"
+    },
+    "06" : {
+      "description" : "Các loại hải sản tươi sống được tẩm ướp trong hỗn hợp của nhiều loại thảo mộc và gia vị truyền thống đậm đà , cùng bột phủ bên ngoài thơm giòn đặc trưng của miền Nam nước Mỹ",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_seafood_fishonly.png",
+      "name" : "Hải sản"
+    },
+    "07" : {
+      "description" : "Bữa ăn tại Popeyes của bạn nay đã trọn vẹn hơn với các combo cơm sốt Gravy đọc quyền từ Louisiana",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/5/m5.png",
+      "name" : "Combo cơm"
+    },
+    "08" : {
+      "description" : "Ngoài hương vị Louisiana truyền thống, không khí gia đình luôn là sự quan tâm hàng đầu của Popeyes. Chúng tôi sẽ mang đến một bữa ăn gia đình mà tất cả mọi thành viên đều thích!",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_family_comboa.png",
+      "name" : "Phần ăn gia đình"
+    },
+    "09" : {
+      "description" : "Một bữa ăn theo phong cách Louisiana không thể thiếu món ăn kèm hoàn hảo. Còn chần chờ gì mà không trải nghiệm ngay?",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/h/o/honey_biscuit.png",
+      "name" : "Món ăn kèm"
+    },
+    "10" : {
+      "description" : "Giải tỏa cơn khát với thức uống mát lạnh và thưởng thức hương vị ngọt ngào từ những món tráng miệng độc đáo",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/f/a/fanta.png",
+      "name" : "Thức uống & Tráng miệng"
+    },
+    "-Lh6OQewGpHPs9l4Za7L" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androideatit-238.appspot.com/o/images%2F9a500f13-433a-49d0-acc6-7f66364094f2?alt=media&token=dd0acb2c-ac05-4c86-9f76-ba0352502dd2",
+      "name" : "bjkk"
+    },
+    "-LhFaZCy3XAjQ8lPieSl" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androideatit-238.appspot.com/o/images%2F4df2636f-6c8b-49da-8efa-a01accf626f7?alt=media&token=c3b020ab-5529-4b80-bc11-67aad4a23b80",
+      "name" : "new"
+    }
+  },
+  "Food" : {
+    "01" : {
+      "description" : "2 Gà Cay Sốt Hàn 2 Gà Giòn Không Xương 1 Khoai Tây Chiên (vừa) 1 Bắp Cải Trộn (vừa)",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_lto_gcs-cb109_1.jpg",
+      "menuId" : "01",
+      "name" : "COMBO GÀ CAY SỐT HÀN\n2 NGƯỜI",
+      "price" : "109000"
+    },
+    "02" : {
+      "description" : "1 Gà Cay Sốt Hàn",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_lto_gcs-1pc_2.jpg",
+      "menuId" : "01",
+      "name" : "1 GÀ CAY SỐT HÀN",
+      "price" : "38000"
+    },
+    "03" : {
+      "description" : "2 Gà Cay Sốt Hàn 1 Món ăn kèm (vừa) 1 Bánh Nướng Mật Ong 1 Coca 390ml",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_lto_gcs-cb92_4.jpg",
+      "menuId" : "01",
+      "name" : "COMBO GÀ CAY SỐT HÀN\n1 NGƯỜI",
+      "price" : "92000"
+    },
+    "04" : {
+      "description" : "2 Gà Cay Sốt Hàn 3 Gà Giòn Không Xương 1 Burger Tôm 1 Khoai Tây Chiên (vừa) 3 Coca 390ml",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_lto_gcs-cb169.jpg",
+      "menuId" : "01",
+      "name" : "COMBO GÀ CAY SỐT HÀN\n3 NGƯỜI",
+      "price" : "169000"
+    },
+    "05" : {
+      "description" : "2 Gà Sốt Chanh Sả 1 Món ăn kèm (vừa) 1 Bánh Nướng Mật Ong 1 Coca 390ml",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_lto_gcs-cb92.jpg",
+      "menuId" : "01",
+      "name" : "COMBO GÀ SỐT CHANH SẢ\n1 NGƯỜI",
+      "price" : "92000"
+    },
+    "06" : {
+      "description" : "1 Gà Sốt Chanh Sả",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_lto_gcs-1pc.jpg",
+      "menuId" : "01",
+      "name" : "1 GÀ SỐT CHANH SẢ",
+      "price" : "38000"
+    },
+    "07" : {
+      "description" : "1 burger gà Cajun/Creole + 1 phần khoai tây chiên (vừa) + 1 coca",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_burger_combo7.png",
+      "menuId" : "02",
+      "name" : "COMBO BURGER GÀ",
+      "price" : "72000"
+    },
+    "08" : {
+      "description" : "1 burger cá + 1 phần khoai tây chiên (vừa) + 1 coca",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_burger_combo8_1_1.png",
+      "menuId" : "02",
+      "name" : "COMBO BURGER CÁ CAJUN",
+      "price" : "72000"
+    },
+    "09" : {
+      "description" : "1 bơ gơ tôm + 1 phần khoai tây chiên (vừa) + 1 coca",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_burger_combo9_1.png",
+      "menuId" : "02",
+      "name" : "COMBO BURGER TÔM",
+      "price" : "63000"
+    },
+    "10" : {
+      "description" : "Từng phiến phi-lê cá mềm trắng nõn được ướp cùng hỗn hợp gia vị Cajun, tẩm bột thủ công và rán giòn thật tươi ngon.",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_burger_fish.png",
+      "menuId" : "02",
+      "name" : "BURGER CÁ RÁN CAJUN",
+      "price" : "54000"
+    },
+    "11" : {
+      "description" : "1 Burger gà Cajun (cay) hoặc Creole (không cay)",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_burger_chicken_1_2.png",
+      "menuId" : "02",
+      "name" : "BURGER GÀ CAJUN/CREOLE",
+      "price" : "54000"
+    },
+    "12" : {
+      "description" : "Từng phiến phi-lê tôm được ướp cùng hỗn hợp gia vị Cajun, tẩm bột thủ công và rán giòn thật tươi ngon.",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_burger_shrimp_1_1.png",
+      "menuId" : "02",
+      "name" : "BURGER TÔM",
+      "price" : "39000"
+    },
+    "14" : {
+      "description" : "2 miếng gà giòn cay + 1 khoai tây chiên (vừa) + 1 bánh nướng mật ong + 1 Coca",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_spicy_combo1_1.png",
+      "menuId" : "03",
+      "name" : "COMBO GÀ GIÒN CAY (2 MIẾNG)",
+      "price" : "82000"
+    },
+    "15" : {
+      "description" : "3 miếng gà giòn cay + 1 khoai tây chiên (vừa) + 1 bánh nướng mật ong + 1 Coca",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_spicy_combo2.png",
+      "menuId" : "03",
+      "name" : "COMBO GÀ GIÒN CAY (3 MIẾNG)",
+      "price" : "110000"
+    },
+    "16" : {
+      "description" : "Gà giòn Cajun tươi mới được ướp với công thức gia vị Louisiana (cay hoặc không cay), tẩm bột thủ công và rán chín cùng lớp phủ giòn tan đặc trưng của miền Nam nước Mỹ.",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/_/8/_8ccdd1a622a3b94e72bf0fa457756b71ba0fbe8c38d48fe976_pimgpsh_fullsize_distr.png",
+      "menuId" : "03",
+      "name" : "1 MIẾNG GÀ GIÒN CAY",
+      "price" : "36000"
+    },
+    "17" : {
+      "description" : "2 miếng Gà Tắm Nước Mắm + 1 Món ăn kèm (vừa) + 1 Bánh Nướng Mật Ong + 1 Nước ngọt",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_spicy_redboatcombo.png",
+      "menuId" : "03",
+      "name" : "COMBO GÀ TẮM NƯỚC MẮM",
+      "price" : "92000"
+    },
+    "18" : {
+      "description" : "2 miếng Gà Tắm Nước Mắm + 1 Món ăn kèm (vừa) + 1 Bánh Nướng Mật Ong + 1 Nước ngọt",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_spicy_redboat139.png",
+      "menuId" : "03",
+      "name" : "COMBO GÀ TẮM NƯỚC MẮM\n2 NGƯỜI",
+      "price" : "149000"
+    },
+    "19" : {
+      "description" : "1 miếng Gà Tắm Nước Mắm",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/1800x/040ec09b1e35df139433887a97daa66f/m/e/menu_spicy_redboat1pc.jpg",
+      "menuId" : "03",
+      "name" : "GÀ TẮM NƯỚC MẮM",
+      "price" : "149000"
+    },
+    "20" : {
+      "description" : "2 miếng gà giòn không cay + 1 khoai tây nghiền (vừa) + 1 bánh mật ong + 1 Coca",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_mild_combo3.png",
+      "menuId" : "04",
+      "name" : "COMBO GÀ GIÒN KHÔNG CAY\n(2 MIẾNG)",
+      "price" : "82000"
+    },
+    "21" : {
+      "description" : "3 miếng gà giòn không cay + 1 khoai tây nghiền (vừa) + 1 bánh mật ong + 1 Coca",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_mild_combo4.png",
+      "menuId" : "04",
+      "name" : "COMBO GÀ GIÒN KHÔNG CAY \n(3 MIẾNG)",
+      "price" : "110000"
+    },
+    "22" : {
+      "description" : "Gà giòn Cajun tươi mới được ướp với công thức gia vị Louisiana (cay hoặc không cay), tẩm bột thủ công và rán chín cùng lớp phủ giòn tan đặc trưng của miền Nam nước Mỹ.",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/_/b/_b5717c683a6c624f5508771da8fc3a2ff56c0d051ba051af62_pimgpsh_fullsize_distr.png",
+      "menuId" : "04",
+      "name" : "1 MIẾNG GÀ GIÒN KHÔNG CAY",
+      "price" : "36000"
+    },
+    "23" : {
+      "description" : "3 miếng gà giòn không xương + 1 phần bắp cải trộn (vừa) + 1 sốt chấm tự chọn (Blackened ranch/Spicy mayo) + 1 bánh mật ong + 1 coca",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_tenders_combo5.png",
+      "menuId" : "05",
+      "name" : "COMBO GÀ GIÒN KHÔNG XƯƠNG\n3 MIẾNG",
+      "price" : "69000"
+    },
+    "24" : {
+      "description" : "5 miếng gà giòn không xương + 1 phần bắp cải trộn (vừa) + 1 sốt chấm tự chọn (blackended ranch/ spicy mayo) + 1 bánh mật ong + 1 coca",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_tenders_combo6.png",
+      "menuId" : "05",
+      "name" : "COMBO GÀ GIÒN KHÔNG XƯƠNG 5 MIẾNG",
+      "price" : "89000"
+    },
+    "25" : {
+      "description" : "3 miếng gà giòn không xương + 1 chén sốt blackened/spicy mayo",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_lto_gcs-cb109_1.jpg",
+      "menuId" : "05",
+      "name" : "GÀ GIÒN KHÔNG XƯƠNG \n3 MIẾNG ",
+      "price" : "55000"
+    },
+    "27" : {
+      "description" : "1 chén sốt Spicy Mayo",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_tenders_blackenedranch.png",
+      "menuId" : "05",
+      "name" : "SỐT SPICY MAYO",
+      "price" : "5000"
+    },
+    "28" : {
+      "description" : "1 miếng cá phi lê + 1 chén sốt tartar + 1 phần khoai tây chiên (vừa) + 1 bánh nướng mật ong + 1 Coca",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_seafood_combo10.png",
+      "menuId" : "06",
+      "name" : "COMBO GÀ SỐT CHANH SẢ\n1 NGƯỜI",
+      "price" : "62000"
+    },
+    "29" : {
+      "description" : "1 miếng phi-lê cá rán + 1 chén sốt tartar",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_seafood_fishonly.png",
+      "menuId" : "06",
+      "name" : "PHI-LÊ CÁ RÁN",
+      "price" : "46000"
+    },
+    "30" : {
+      "description" : "Cơm sốt Gravy + 1 miếng gà giòn cay/không cay + 1 canh súp",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/1/m1.png",
+      "menuId" : "07",
+      "name" : "CƠM GÀ GIÒN + CANH ( M1)",
+      "price" : "39000"
+    },
+    "31" : {
+      "description" : "Cơm sốt Gravy + 1 miếng phi lê cá rán + 1 canh súp",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/2/m2.png",
+      "menuId" : "07",
+      "name" : "CƠM PHI-LÊ CÁ + CANH (M2)",
+      "price" : "39000"
+    },
+    "32" : {
+      "description" : "Cơm Gravy + 2 Gà Giòn Không Xương + Nước (M3)",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_ricemeal_m3_1.png",
+      "menuId" : "07",
+      "name" : "CƠM GÀ GIÒN KHÔNG XƯƠNG + NƯỚC (M3)",
+      "price" : "49000"
+    },
+    "33" : {
+      "description" : "1 Cơm Gravy + 1 Gà Giòn + 1 Khoai Tây nghiền (size vừa) + 1 Canh Súp",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_ricemeal_m4.png",
+      "menuId" : "07",
+      "name" : "CƠM GÀ GIÒN + KHOAI TÂY NGHIỀN + CANH SÚP (M4)",
+      "price" : "49000"
+    },
+    "34" : {
+      "description" : "Cơm sốt Gravy + 1 miếng gà tắm nước mắm + 1 súp + 1 bắp cải trộn ( size vừa) + 1 nước ngọt 390m",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/5/m5.png",
+      "menuId" : "07",
+      "name" : "CƠM GÀ TẮM NƯỚC MẮM+ BẮP CẢI TRỘN + NƯỚC NGỌT + CANH (M5)...  ",
+      "price" : "59000"
+    },
+    "35" : {
+      "description" : "Cơm Gà Giòn Không Xương + Bánh Tart Phô Mai + Canh + Nước ngọt (M6)",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/6/m6.png",
+      "menuId" : "07",
+      "name" : "CƠM GÀ GIÒN KHÔNG XƯƠNG + BÁNH TART PHÔ MAI + CANH + NƯỚC N...",
+      "price" : "59000"
+    },
+    "36" : {
+      "description" : "8 gà giòn cay + 1 phần khoai tây nghiền (lớn) + 4 bánh nướng mật ong + 4 coca 390ml",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_family_comboa.png",
+      "menuId" : "08",
+      "name" : "COMBO GIA ĐÌNH A",
+      "price" : "299000"
+    },
+    "37" : {
+      "description" : "8 miếng gà không xương + 4 miếng gà giòn cay + 1 phần khoai tây nghiền (lớn) + 4 bánh mật ong + 4 coca 390ml + 1 sốt blackended + 1 sốt spicy mayo",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_family_combob.png",
+      "menuId" : "08",
+      "name" : "COMBO GIA ĐÌNH B",
+      "price" : "299000"
+    },
+    "38" : {
+      "description" : "Một bữa ăn Popeyes \"đúng chuẩn\" không thể thiếu những chiếc bánh nướng mật ong bơ thơm lừng!",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/h/o/honey_biscuit.png",
+      "menuId" : "09",
+      "name" : "BÁNH NƯỚNG MẬT ONG",
+      "price" : "9000"
+    },
+    "39" : {
+      "description" : "Mềm dẻo đặc biệt, lựa chọn hoàn hảo để bạn tận hưởng một bữa ăn Popeyes tuyệt vời.",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/r/i/rice.png",
+      "menuId" : "09",
+      "name" : "CƠM TRẮNG",
+      "price" : "10000"
+    },
+    "40" : {
+      "description" : "Bắp cải trộn giòn, cùng lớp sốt đậm đà là sự kết hợp hoàn hỏa cho món gà rán.",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/a/bap_cai_tron.png",
+      "menuId" : "09",
+      "name" : "BẮP CẢI TRỘN",
+      "price" : "19000"
+    },
+    "41" : {
+      "description" : "Khoai tây nghiền mịn như kem được phủ nước sốt Gravy đậm đà.",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/k/h/khoai_tay_chien.png",
+      "menuId" : "09",
+      "name" : "KHOAI TÂY NGHIỀN",
+      "price" : "19000"
+    },
+    "42" : {
+      "description" : "Canh Súp",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/o/soup.png",
+      "menuId" : "09",
+      "name" : "CANH SÚP",
+      "price" : "29000"
+    },
+    "43" : {
+      "description" : "Bánh Tart Phô Mai",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_dessert_cheesetart.png",
+      "menuId" : "10",
+      "name" : "BÁNH TART PHÔ MAI",
+      "price" : "29000"
+    },
+    "44" : {
+      "description" : "Uống thả ga khi dùng tại nhà hàng",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/o/coca.png",
+      "menuId" : "10",
+      "name" : "COCA 390ML",
+      "price" : "19000"
+    },
+    "45" : {
+      "description" : "Uống thả ga khi dùng tại nhà hàng",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/f/a/fanta.png",
+      "menuId" : "10",
+      "name" : "FANTA 390ML",
+      "price" : "19000"
+    },
+    "46" : {
+      "description" : "Uống thả ga khi dùng tại nhà hàng",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/s/p/sprite.png",
+      "menuId" : "10",
+      "name" : "SPRITE 390ML",
+      "price" : "19000"
+    },
+    "47" : {
+      "description" : "Coca cola 1.5L",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_beverages_coca15l.png",
+      "menuId" : "10",
+      "name" : "COCA COLA 1.5L",
+      "price" : "38000"
+    },
+    "48" : {
+      "description" : "Fanta 1.5L",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_beverages_fanta15l.png",
+      "menuId" : "10",
+      "name" : "FANTA 1.5L",
+      "price" : "38000"
+    },
+    "49" : {
+      "description" : "Sprite 1.5L",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_beverages_sprite15l.png",
+      "menuId" : "10",
+      "name" : "SPRITE 1.5L",
+      "price" : "38000"
+    },
+    "50" : {
+      "description" : "Coca light",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/c/o/cocalight.png",
+      "menuId" : "10",
+      "name" : "COCA LIGHT",
+      "price" : "19000"
+    },
+    "51" : {
+      "description" : "Dasani",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/d/a/dasani.png",
+      "menuId" : "10",
+      "name" : "DASANI",
+      "price" : "1900"
+    },
+    "52" : {
+      "description" : "Lớp kem vani mát lạnh và sánh mịn tan ngay trong miệng",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/k/e/kemtuoi.png",
+      "menuId" : "10",
+      "name" : "KEM TƯƠI",
+      "price" : "5000"
+    },
+    "53" : {
+      "description" : "Kem vani mát lạnh được phủ lớp sô-cô-la thật hấp dẫn",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/k/e/kem_socola.png",
+      "menuId" : "10",
+      "name" : "KEM PHỦ SÔCÔLA",
+      "price" : "7000"
+    },
+    "54" : {
+      "description" : "Chỉ áp dụng cho ăn tại cửa hàng",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_dessert_cornflake.png",
+      "menuId" : "10",
+      "name" : "KEM CORNFLAKE",
+      "price" : "17000"
+    },
+    "55" : {
+      "description" : "Chỉ áp dụng cho ăn tại cửa hàng",
+      "discount" : "0",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_drinks_milo.png",
+      "menuId" : "10",
+      "name" : "MILO",
+      "price" : "20000"
+    },
+    "-LgyzWEJvsUFix1dbgik" : {
+      "description" : "jfkfkf",
+      "discount" : "643869",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androideatit-238.appspot.com/o/images%2Fc5b7c9ba-b93d-43d0-9677-17ea90faeab2?alt=media&token=d045a706-c6ad-4380-b2d9-067366e88c7e",
+      "menuId" : "-LgDBG8ZdkW0Vblle_Yq",
+      "name" : "nfkdk",
+      "price" : "5680"
+    },
+    "-Lh6QeWrrDZI3Wksvqqd" : {
+      "description" : "hh",
+      "discount" : "99",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androideatit-238.appspot.com/o/images%2F05729b7f-25de-4dc3-9d3f-a7363351e7f6?alt=media&token=38c20792-6f95-4d4d-a882-d46ec2e6df7a",
+      "menuId" : "-Lh6OQewGpHPs9l4Za7L",
+      "name" : "bj",
+      "price" : "96"
+    }
+  },
+  "KhuyenMai" : {
+    "01" : {
+      "description" : "Hãy nhanh tay thử các sản phẩm mới của Gà Rán Popeyes - chỉ xuất hiện trong thời gian cực kỳ giới hạn. Với hương vị mới lạ độc đáo và giá cả hợp lí, sản phẩm mới của chúng tôi chắc chắn sẽ làm vừa lòng những thực khách khó tính nhất",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_lto_gcs-cb92.jpg",
+      "name" : "Món mới"
+    },
+    "02" : {
+      "description" : "Louisiana nổi tiếng với hương vị thơm ngon đặc trưng - Gà rán Cajun cay giòn và Creole chua chua béo ngậy . Hãy thử ngay món bơ-gơ gà , tôm hoặc cá từ cảm hứng ẩm thực Louisiana",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_burger_shrimp_1_1.png",
+      "name" : "Bơ-gơ"
+    },
+    "03" : {
+      "description" : "Món Gà Giòn Cay được tẩm ướp gia vị Cajun cay trong ít nhất 12 giờ đồng hồ, sau đó được phủ bột và rán giòn cùng hương vị Louisiana đậm đà",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_spicy_redboatcombo.png",
+      "name" : "Gà giòn cay"
+    },
+    "04" : {
+      "description" : "Món Gà Giòn không Cay được tẩm ướp gia vị Cajun cay trong ít nhất 12 giờ đồng hồ, sau đó được phủ bột và rán giòn cùng hương vị Louisiana đậm đà",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_mild_40off.png",
+      "name" : "Gà giòn không cay"
+    },
+    "05" : {
+      "description" : "100% thịt ức mềm được ướp sốt trong hỗn hợp gia vị Louisiana đặc trưng , sau đó được phủ bột và rán chín thật tươi ngon ngay tại bếp",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_tenders_happyhour.png",
+      "name" : "Gà giòn không xương"
+    },
+    "06" : {
+      "description" : "Các loại hải sản tươi sống được tẩm ướp trong hỗn hợp của nhiều loại thảo mộc và gia vị truyền thống đậm đà , cùng bột phủ bên ngoài thơm giòn đặc trưng của miền Nam nước Mỹ",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_seafood_fishonly.png",
+      "name" : "Hải sản"
+    },
+    "07" : {
+      "description" : "Bữa ăn tại Popeyes của bạn nay đã trọn vẹn hơn với các combo cơm sốt Gravy đọc quyền từ Louisiana",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/5/m5.png",
+      "name" : "Combo cơm"
+    },
+    "08" : {
+      "description" : "Ngoài hương vị Louisiana truyền thống, không khí gia đình luôn là sự quan tâm hàng đầu của Popeyes. Chúng tôi sẽ mang đến một bữa ăn gia đình mà tất cả mọi thành viên đều thích!",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/e/menu_family_comboa.png",
+      "name" : "Phần ăn gia đình"
+    },
+    "09" : {
+      "description" : "Một bữa ăn theo phong cách Louisiana không thể thiếu món ăn kèm hoàn hảo. Còn chần chờ gì mà không trải nghiệm ngay?",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/h/o/honey_biscuit.png",
+      "name" : "Món ăn kèm"
+    },
+    "10" : {
+      "description" : "Giải tỏa cơn khát với thức uống mát lạnh và thưởng thức hương vị ngọt ngào từ những món tráng miệng độc đáo",
+      "image" : "https://popeyes.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/f/a/fanta.png",
+      "name" : "Thức uống & Tráng miệng"
+    }
+  },
+  "Requests" : {
+    "1560057028015" : {
+      "address" : "16 Lữ Gia Hồ Chí Minh",
+      "foods" : [ {
+        "discount" : "0",
+        "productId" : "02",
+        "productName" : "1 GÀ CAY SỐT HÀN",
+        "quantity" : "1"
+      }, {
+        "discount" : "0",
+        "productId" : "04",
+        "productName" : "COMBO GÀ CAY SỐT HÀN – 3 NGƯỜI",
+        "quantity" : "2"
+      } ],
+      "name" : "Bảo Bon User",
+      "phone" : "0981289196",
+      "status" : "2",
+      "total" : "$376,000.00"
+    },
+    "1560064290026" : {
+      "address" : "137 Nguyễn Chí Thanh Hồ Chí Minh",
+      "foods" : [ {
+        "discount" : "0",
+        "price" : "72000",
+        "productId" : "08",
+        "productName" : "COMBO BURGER CÁ CAJUN",
+        "quantity" : "1"
+      } ],
+      "name" : "Bảo Bon User",
+      "phone" : "0981289196",
+      "status" : "0",
+      "total" : "72.000 VNĐ"
+    },
+    "1560178713673" : {
+      "address" : "115 Sư Vạn Hạnh",
+      "foods" : [ {
+        "discount" : "0",
+        "productId" : "01",
+        "productName" : "COMBO GÀ CAY SỐT HÀN\n2 NGƯỜI",
+        "quantity" : "2"
+      }, {
+        "discount" : "0",
+        "productId" : "44",
+        "productName" : "COCA 390ML",
+        "quantity" : "2"
+      }, {
+        "discount" : "0",
+        "productId" : "38",
+        "productName" : "BÁNH NƯỚNG MẬT ONG",
+        "quantity" : "1"
+      } ],
+      "name" : "Bảo Bon User",
+      "phone" : "0981289196",
+      "status" : "1",
+      "total" : "265.000 VNĐ"
+    },
+    "1560425338801" : {
+      "address" : "115 sư vạn hạnh",
+      "foods" : [ {
+        "discount" : "0",
+        "productId" : "10",
+        "productName" : "BURGER CÁ RÁN CAJUN",
+        "quantity" : "1"
+      }, {
+        "discount" : "0",
+        "productId" : "11",
+        "productName" : "BURGER GÀ CAJUN/CREOLE",
+        "quantity" : "1"
+      } ],
+      "name" : "Bảo Bon User",
+      "phone" : "0981289196",
+      "status" : "1",
+      "total" : "75.600 VNĐ"
+    }
+  },
+  "User" : {
+    "0123456789" : {
+      "IfStaff" : "true",
+      "name" : "Bảo Bon Managament",
+      "password" : "1234"
+    },
+    "0981289196" : {
+      "IfStaff" : "false",
+      "name" : "Bảo Bon User",
+      "password" : "1234"
+    },
+    "0987123456" : {
+      "ifStaff" : "false",
+      "name" : "Quoc Bao User",
+      "password" : "1234"
+    },
+    "09871234567" : {
+      "ifStaff" : "false",
+      "name" : "Quoc Bao Users",
+      "password" : "1234"
+    }
+  }
+}
