@@ -1,4 +1,7 @@
 # Oder Popeyes App
+
+This app is built with the help of video tutorials. You can find them on EDMT Youtube channel.
+
 This source code support to do project in schools,using images taken from Popeyes.vn
 
 Website : Popeyes.vn
