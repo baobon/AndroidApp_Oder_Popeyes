@@ -1,8 +1,4 @@
-# Oder Popeyes App
-
-- Data stored in a MySQL database , Firebase database
-- Material 
-- CardView 
+## Oder Popeyes App
 
 * Oder Popeyes App help people oder fried chicken from Popeyes
 
@@ -17,7 +13,7 @@ If you have any copyright issues please contact us via email: baobondev@gmail.co
 
 ---
 
-# Manager Popeyes
+## Manager Popeyes
 
 * Manager Popeyes App help managetment oder of Popeyes store
 
